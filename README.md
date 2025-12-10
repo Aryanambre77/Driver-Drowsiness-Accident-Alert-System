@@ -6,7 +6,9 @@ The Driver Drowsiness and Accident Alert System is an intelligent safety project
 
 Once drowsiness is detected, the system immediately triggers audio and vibration alerts to wake the driver. Additionally, through the integration of GSM and GPS modules, it can send an SMS alert containing the driver’s location to emergency contacts if the driver fails to respond or if an accident occurs. This project provides a low-cost yet efficient solution for improving road safety through a blend of AI-driven vision detection and embedded hardware control.
 
-⚙️ Features
+---
+
+## ⚙️ Features
 
 AI-Based Drowsiness Detection: Uses OpenCV and Dlib’s shape predictor model to analyze facial landmarks in real time.
 
@@ -18,7 +20,9 @@ Real-Time Monitoring: Continuously processes facial data for accuracy and quick 
 
 Cost-Effective & Scalable: Combines affordable components with efficient AI processing.
 
-🧩 Hardware Components
+---
+
+## 🧩 Hardware Components
 
 Arduino Nano
 
@@ -34,7 +38,9 @@ Vibration Motor
 
 Power Supply (Battery)
 
-💻 Software Components
+---
+
+## 💻 Software Components
 
 Programming Language: Python & Embedded C
 
@@ -49,6 +55,8 @@ NumPy – for numerical operations
 imutils – for frame handling
 
 Tools: Arduino IDE, Visual Studio Code
+
+---
 
 ## 🧠 Working Principle
 
