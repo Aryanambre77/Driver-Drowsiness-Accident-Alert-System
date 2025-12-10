@@ -1,5 +1,6 @@
-🚗 Driver Drowsiness and Accident Alert System
-🧠 Project Overview
+## 🚗 Driver Drowsiness and Accident Alert System
+
+## 🧠 Project Overview
 
 The Driver Drowsiness and Accident Alert System is an intelligent safety project that combines Computer Vision (CV) and IoT-based hardware to detect driver fatigue and prevent road accidents. Using a shape predictor model powered by OpenCV and Dlib, the system continuously monitors the driver’s eyes and facial landmarks in real time to identify signs of drowsiness such as prolonged eye closure or head tilt.
 
